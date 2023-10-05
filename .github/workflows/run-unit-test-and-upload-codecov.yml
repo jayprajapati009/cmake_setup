@@ -15,7 +15,7 @@
 name: Run Unit Test and Upload Coverage Report
 
 on:
-  # Triggered whenever push to main 
+  # Triggered whenever push to main a
   push:
     branches: [ "main" ]
 
